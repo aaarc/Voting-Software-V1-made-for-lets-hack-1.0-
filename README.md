@@ -8,8 +8,13 @@ Voter login:
 3. id: 334501 ,key: 33440100
 
 ##################################_____admin login__________
+
+
 admin login:(top left in more options(||| icon))
+  
   ID:aaarc,password or key:aaarcmade
+  
+  
   ##########################
   made for lets hack 1.0
   thanks a lot for viewing this
